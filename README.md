@@ -1,7 +1,7 @@
-# **motion-planning-net**
+# **MPNet**
 
 This work is based on Motion Planning Neural Network presented in:
-https://arxiv.org/abs/1806.05767 \
+https://arxiv.org/abs/1806.05767 \ and extended from https://github.com/KonradSzafer/motion-planning-net
 The goal was to create a Neural Planner for 2D maps.
 
 # **Network structure**
